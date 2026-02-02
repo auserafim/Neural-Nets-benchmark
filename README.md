@@ -2,13 +2,13 @@
 
 This project performs fine-tuning on **ResNet50** and **EfficientNet-B0** architectures to classify images from **CIFAR-10**, **CIFAR-100**, and **EMNIST** datasets.
 
-## 🛠 Tech Stack
+## Tech Stack
 * **Python**
 * **PyTorch** & **Torchvision** (Model training & Datasets)
 * **Scikit-learn** (Metrics: Accuracy, Precision, Recall, F1)
 * **Matplotlib** (Loss visualization)
 
-## 🚀 How to Run
+## How to Run
 
 It is required to run this project inside a **virtual environment**.
 
